@@ -1,0 +1,5 @@
+        metal   wood    stone   ice
+metal   0.52    0.40    0.45    0.03
+wood            0.48    0.60    0.03    
+stone                   0.65    0.05
+ice                             0.02
